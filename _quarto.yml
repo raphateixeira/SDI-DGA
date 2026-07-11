@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SDI-DGA"
+  site-url: https://raphateixeira.github.io/SDI-DGA/
+  repo-url: https://github.com/raphateixeira/SDI-DGA
+
+format:
+  html:
+    theme: [cosmo, TemaRTx.scss]
+    lang: pt-BR
+    toc: true
+
+execute:
+  enabled: false
