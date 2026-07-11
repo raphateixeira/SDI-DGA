@@ -1,10 +1,12 @@
 # SDI-DGA
-Sistema de Disgnóstico Inteligente de Transformadores de Potência por Análise DGA
 
-PTT do trabalho intitulado _DIAGNÓSTICO INTELIGENTE DE FALTAS EM TRANSFORMADORES
-BASEADO NA ANÁLISE DE GÁS DISSOLVIDO EM ÓLEO_
+Sistema de Diagnóstico Inteligente de Transformadores de Potência por Análise DGA.
 
- - Autor: Otacílio Rodrigues Oliveira Filho
- - Orientador: Prof. Raphael Barros Teixeira
+Trabalho da dissertação de mestrado intitulada _Diagnóstico inteligente de
+faltas em transformadores baseado na análise de gás dissolvido em óleo_
+([ver publicação](https://repositorio.ufpa.br/items/eeecc00f-702c-453c-968a-867779a14a70)).
 
- Códigos estão disponíveis em [https://github.com/raphateixeira/SDI-DGA](https://github.com/raphateixeira/SDI-DGA)
+- **Autor:** Otacílio Rodrigues Oliveira Filho
+- **Orientador:** Prof. Dr. Raphael Barros Teixeira
+
+🔗 Site: https://raphateixeira.github.io/SDI-DGA/
