@@ -1,11 +1,13 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - DataSetDGA.xlsx
 
 website:
-  title: "SDI-DGA"
-  site-url: https://raphateixeira.github.io/SDI-DGA/
-  repo-url: https://github.com/raphateixeira/SDI-DGA
+  title: "AnaliseDGA"
+  site-url: https://raphateixeira.github.io/AnaliseDGA/
+  repo-url: https://github.com/raphateixeira/AnaliseDGA
 
 format:
   html:
